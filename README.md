@@ -1,7 +1,7 @@
 # question-page
 
 ## Forntend
-* Run Npm install inside the Client Folder
+* Run npm install inside the Client Folder
 * Run npm start
 
 ## Backend
